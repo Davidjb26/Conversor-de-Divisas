@@ -95,6 +95,4 @@ flutter run -d android
 - Contenedor rojo con icono de advertencia + mensaje (error)
 - `dispose()` de `TextEditingController` y `CurrencyCubit`
 
-## 📄 Licencia
 
-Proyecto académico — uso educativo.
